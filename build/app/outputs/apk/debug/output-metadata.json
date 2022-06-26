@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.my_portfolio",
+  "applicationId": "com.example.personal_portfolio",
   "variantName": "processDebugResources",
   "elements": [
     {

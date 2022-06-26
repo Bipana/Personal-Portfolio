@@ -31,7 +31,7 @@ class ProjectLayout extends StatelessWidget {
           const Spacer(),
           Text(
             myProjects[index].description,
-            maxLines: 4,
+            maxLines: 3,
             textAlign: TextAlign.start,
             style: MediaQuery.of(context).size.width > 1416
                 ? const TextStyle(overflow: TextOverflow.ellipsis, height: 1.5)

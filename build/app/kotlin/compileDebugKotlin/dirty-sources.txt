@@ -1,1 +1,0 @@
-C:\Users\DELL\Desktop\my-portfolio\android\app\src\main\kotlin\com\example\my_portfolio\MainActivity.kt

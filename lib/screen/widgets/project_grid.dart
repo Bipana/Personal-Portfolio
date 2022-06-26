@@ -15,6 +15,7 @@ class ProjectGrid extends StatelessWidget {
     return GridView.builder(
         itemCount: myProjects.length,
         shrinkWrap: true,
+          physics: const NeverScrollableScrollPhysics(),
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
           crossAxisCount: crossCount,
           childAspectRatio: aspectRatio,
